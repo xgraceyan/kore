@@ -1,6 +1,6 @@
 # kore
 Kore Discord Bot (written in Discord.JS)
-*uncleaned code / raw version*
+*uncleaned code / raw version w/ MySQL db*
 
 ## About
 Hi! Thanks for checking Kore out. Kore is a multipurpose bot that is very customizable
