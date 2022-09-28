@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A fun bot made by grace",
   "main": "index.js",
-    "scripts": {
+  "scripts": {
     "start": "mode index.js",
     "node .": "node run index.js"
   },
