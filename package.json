@@ -7,6 +7,9 @@
     "start": "mode index.js",
     "node .": "node run index.js"
   },
+  "engines": {
+    "node": "14.x"
+  }
   "author": "grace#2039",
   "license": "ISC",
   "dependencies": {
