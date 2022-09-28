@@ -916,4 +916,4 @@ bot.on("message", (message) => {
   }
 });
 
-bot.login("NzUwMDY5NTAyMzU1NDM5ODI3.GvWu-z.UId8k2u-YUhDaHSaZsYeDSdCKS4Z3eWYvOEcOo");
+bot.login("token");
